@@ -1,0 +1,16 @@
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\bin\Debug\netcoreapp2.1\SiteParser.deps.json
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\bin\Debug\netcoreapp2.1\SiteParser.runtimeconfig.json
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\bin\Debug\netcoreapp2.1\SiteParser.runtimeconfig.dev.json
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\bin\Debug\netcoreapp2.1\SiteParser.dll
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\bin\Debug\netcoreapp2.1\SiteParser.pdb
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.csproj.AssemblyReference.cache
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.AssemblyInfoInputs.cache
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.AssemblyInfo.cs
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.csproj.CoreCompileInputs.cache
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.csproj.CopyComplete
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.dll
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.pdb
+C:\Users\khomiak\Documents\Integration\Integration\SiteParcer\obj\Debug\netcoreapp2.1\SiteParser.genruntimeconfig.cache
