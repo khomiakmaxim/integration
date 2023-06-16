@@ -1,0 +1,221 @@
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.Websocket.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Serializer.Newtonsoft.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Primitives.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DTO.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Reactive.dll
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\DOCUMENTS\SEM 10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Reactive.xml
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.Websocket.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Serializer.Newtonsoft.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Primitives.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DTO.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Reactive.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Reactive.xml
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+E:\DOCUMENTS\SEM_10\Integr\IntegrationК\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Client.Serializer.Newtonsoft.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\GraphQL.Primitives.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\khomiak\Documents\Integration\Integration\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
